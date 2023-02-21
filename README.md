@@ -109,3 +109,7 @@ El servicio se ejecutara cada vez que el dispositivo se encienda y realizara la 
 Se logró comprender la importancia de los servicios y como es que estos se implementan. Estos tipos de servicios encargados de revisar el estatus de un programa o aplicación
 resultan muy utiles si se necesita que dicha aplicación permanezca siempre activa como es el caso de algunas paginas gubernamentales.
 </p>
+
+
+### Bibliografia
+* H. (2022, 27 junio). Escáner de puertos con python básico. HackCode. Recuperado el 18 de Febrero de 2023, de https://hackcode.club/escaner-de-puertos-con-python-basico/ *
